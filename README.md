@@ -51,8 +51,6 @@ To run this project locally, follow these steps:
 1. Upload an image using the file uploader.
 2. Select the desired enhancement options from the sidebar.
 3. Adjust parameters using sliders for real-time feedback.
-4. Compare the original and enhanced images using the "Before/After" slider tool.
-5. Optionally, blend with another image or convert color spaces.
 
 ## Example Outputs
 
